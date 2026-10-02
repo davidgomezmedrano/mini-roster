@@ -1,0 +1,2 @@
+# Mini Roster
+-- practicando git --
