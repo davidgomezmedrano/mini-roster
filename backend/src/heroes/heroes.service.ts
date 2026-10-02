@@ -3,7 +3,7 @@ import { Injectable } from '@nestjs/common';
 @Injectable()
 export class HeroesService {
     private readonly heroes = [
-    { id: 'iron-man', displayName: 'Iron Man', role: 'TECH' },
+    { id: 'iron-man', displayName: 'Iron Man Tony', role: 'TECH' },
     { id: 'thor', displayName: 'Thor Odinson', role: 'WARRIOR' },
     { id: 'black-widow', displayName: 'Black Widow', role: 'AGILE' },
   ];
