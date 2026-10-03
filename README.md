@@ -1,2 +1,1 @@
-# Mini Roster
--- practicando git --
+# Mini Roster - versión A
